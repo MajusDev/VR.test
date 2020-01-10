@@ -9,6 +9,7 @@ When it is done I will push it here
 # Bug reports will come soon (when I get to it)
 
 Bug report 1/9/20
+
 Following function did not work as intended
 
 	func _ready():
